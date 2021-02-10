@@ -1,0 +1,11 @@
+C:\Users\59011345\source\repos\ConsoleApp1test\bin\Debug\ConsoleApp1test.exe.config
+C:\Users\59011345\source\repos\ConsoleApp1test\bin\Debug\ConsoleApp1test.exe
+C:\Users\59011345\source\repos\ConsoleApp1test\bin\Debug\ConsoleApp1test.pdb
+C:\Users\59011345\source\repos\ConsoleApp1test\bin\Debug\ConsoleApp1test.xml
+C:\Users\59011345\source\repos\ConsoleApp1test\obj\Debug\ConsoleApp1test.vbprojAssemblyReference.cache
+C:\Users\59011345\source\repos\ConsoleApp1test\obj\Debug\ConsoleApp1test.Resources.resources
+C:\Users\59011345\source\repos\ConsoleApp1test\obj\Debug\ConsoleApp1test.vbproj.GenerateResource.cache
+C:\Users\59011345\source\repos\ConsoleApp1test\obj\Debug\ConsoleApp1test.vbproj.CoreCompileInputs.cache
+C:\Users\59011345\source\repos\ConsoleApp1test\obj\Debug\ConsoleApp1test.exe
+C:\Users\59011345\source\repos\ConsoleApp1test\obj\Debug\ConsoleApp1test.xml
+C:\Users\59011345\source\repos\ConsoleApp1test\obj\Debug\ConsoleApp1test.pdb
